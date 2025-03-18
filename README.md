@@ -10,3 +10,4 @@
 
 
 ## UML Class Diagram
+![Blank diagram (5)](https://github.com/user-attachments/assets/23a38251-75e7-43ab-b454-960e4e139667)
